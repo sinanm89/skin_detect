@@ -1,0 +1,10 @@
+2015-10-09 11:56:35+0300 [-] Log opened.
+2015-10-09 11:56:35+0300 [-] --> skinny.tests.test_server.RpcTestCase.test_faults <--
+2015-10-09 11:56:35+0300 [-] --> skinny.tests.test_server.RpcTestCase.test_nudity_score_method <--
+2015-10-09 11:56:35+0300 [-] --> skinny.tests.test_server.RpcTestCase.test_skin_score_method <--
+2015-10-09 11:56:36+0300 [-] --> skinny.tests.test_server.SkinDetectTestCase.test_nudity_score <--
+2015-10-09 11:56:36+0300 [-] --> skinny.tests.test_server.SkinDetectTestCase.test_skin_score <--
+2015-10-09 11:56:36+0300 [-] --> skinny.tests.test_server.UtilsTestCase.test_image_create <--
+2015-10-09 11:56:36+0300 [-] --> skinny.tests.test_server.UtilsTestCase.test_image_type <--
+2015-10-09 11:56:36+0300 [-] --> skinny.tests.test_server.UtilsTestCase.test_image_url <--
+2015-10-09 11:56:36+0300 [-] --> skinny.tests.test_server.UtilsTestCase.test_treq_response_code <--
